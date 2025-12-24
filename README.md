@@ -25,7 +25,7 @@ La fonction applique la fonction de test à chaque élément du tableau, dans l�
 function findElement(arr, func)
 
 ```
-
+---
 
 ## Fonctionnement
 
@@ -49,7 +49,7 @@ findElement([1, 3, 5], num => num % 2 === 0);
 // → undefined
 
 ```
-
+---
 
 ## Compétences développées
   
@@ -137,7 +137,7 @@ findElement([1, 3, 5], num => num % 2 === 0);
 
 ## Auteur
 
-Projet réalisé par Idriss Enone dans le cadre d’un apprentissage en JavaScript.
+Projet réalisé par **Idriss Enone** dans le cadre d’un apprentissage en JavaScript.
 
 ---
 
