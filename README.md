@@ -25,6 +25,7 @@ La fonction applique la fonction de test à chaque élément du tableau, dans l�
 function findElement(arr, func)
 
 ```
+
 ---
 
 ## Fonctionnement
