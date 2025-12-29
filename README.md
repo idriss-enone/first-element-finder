@@ -128,11 +128,13 @@ findElement([1, 3, 5], num => num % 2 === 0);
 2. **Ouvrir le projet :**
 
   - Ouvrir le dossier dans **VS Code**.
-  - Ouvrir le fichier `index.html`.
+  - Ouvrir le fichier `script.js`.
 
-3. **Lancer l'application :**
-    - Ouvrir `index.html` dans un navigateur ;
-    - Cliquer sur un bouton pour afficher une histoire
+3. **Exécuter le code :**
+    - Via la console du navigateur dans une page HTML liée au script ;
+    - Ou via Node.js :
+      ```bash
+      node script.js
 
 ---
 
